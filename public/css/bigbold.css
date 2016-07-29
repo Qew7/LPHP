@@ -1,0 +1,183 @@
+body {
+    text-align: center;
+}
+header{
+    position: fixed;
+    background-color: #333333;
+    padding-right: 0;
+    padding-left: 0;
+    z-index: 1200;
+    width: inherit;
+}
+header ul li{
+    color: #c4cbcf;
+    padding: 5px 7px 5px;
+    font-weight: 700;
+}
+header ul li a {
+    color: #c4cbcf;
+    padding: 5px 7px 5px;
+    font-weight: 700;
+}
+header .col-xs-6{
+    margin-top: 15px;
+}
+header .col-xs-1 b{
+    color: #fff;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 70px;
+    padding-left: 30px;
+}
+header .col-xs-6 ul li{
+    display: inline-block;
+}
+header .row .col-xs-6 ul li ul li{
+    display: block;
+    color: #fff;
+    background-color: #333333;
+    border: 2px;
+}
+.dropdown-menu{
+    background-color: #333333;
+    border-radius: 0;
+}
+.dropdown-menu1{
+    left: 7em;
+}
+.dropdown-menu2{
+    left: 15em;
+}
+.dropdown-menu3{
+    left: 24em;
+}
+body .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#WhatWeDo{
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+#LatestProjects{
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+.container{
+    padding: 0;
+}
+button, input, select, textarea {
+    background-color: #333333;
+    border: 0;
+}
+#banner{
+    margin-top: 70px;
+    background-color: #13A89E;
+    padding: 130px 0;
+    width: 100%;
+}
+.border{
+    background: transparent url("http://cit-fresh.site.moboom.com/_img?url=66470c73-71d6-0e75-6773-512bfd1aa376") top repeat-x;
+    position: relative;
+    top: -7px;
+    height: 7px;
+}
+.col-xs-3 .glyphicon{
+    font-size: 55px;
+    color: #13A89E;
+}
+#banner .text-center{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 70px;
+    color: #fff;
+}
+p{
+    font-size: 31px;
+    line-height: 36px;
+    font-weight: 300;
+    color: #fff;
+    padding: 0 45px;
+}
+.line{
+    border-bottom: 1px solid #EEEEEE;
+    margin-bottom: 50px;
+    position: relative;
+    font-size: 25px;
+    height: 50px;
+}
+.title{
+    position: absolute;
+    color: #454545;
+    margin-bottom: -20px;
+    background: #fff;
+    left: 40%;
+    top: 30px;
+}
+a.thumbnail{
+    margin: 20px;
+}
+.block{
+    display: inline-block;
+    font-size: 40px;
+}
+.block-footer{
+    display: inline-block;
+}
+.form-inline{
+    padding-top: 10px;
+}
+#footer{
+    padding: 20px 0;
+    margin-top: 30px;
+    border-top: 1px solid #E5E5E5;
+    background-color: #333333;
+    font-size: 12px;
+    color: #868686;
+    text-align: left;
+}
+.footer-title{
+    font-size: 17px;
+    margin-bottom: 13px;
+}
+ul{
+    margin-left: 0;
+    list-style: none;
+    padding: 0;
+}
+.block-footer li{
+    min-width: 140px;
+    border-bottom: 1px solid #505050;
+    padding: 5px 0;
+    margin-right: 30px;
+}
+#footer2{
+    background: #303030;
+    line-height: 17px;
+    padding: 12px 0;
+    text-align: left;
+}
+#footer2 li{
+    display: inline-block;
+}
+#footer2 li a{
+    border-left: 1px solid #505050;
+    color: #868686;
+    padding: 0 15px;
+    font-size: 11px;
+}
+#footer2 li:first-child a{
+    border-left: none;
+}
+.networks{
+    width:80%;
+    padding-top:15px;
+}
+.black-background {
+    background-color:#000000;
+    border-color: #000;
+    color: white;
+}
